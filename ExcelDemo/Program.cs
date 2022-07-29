@@ -4,7 +4,7 @@ using System.IO;
 
 namespace ExcelDemo
 {
-    class Program
+    partial class Program
     {
         static void Main(string[] args)
         {
